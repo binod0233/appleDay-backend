@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_url_urls",
+  "info": {
+    "displayName": "button",
+    "icon": "minus",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "rel": {
+      "type": "string"
+    },
+    "target": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

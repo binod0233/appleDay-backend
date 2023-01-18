@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_sections",
+  "info": {
+    "displayName": "section1",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "tpi": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.slices-type2"
+    }
+  }
+}

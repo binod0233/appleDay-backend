@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_slices_slices_type3s",
+  "info": {
+    "displayName": "T-B",
+    "icon": "angle-double-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "url.url"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_slices_pis",
+  "info": {
+    "displayName": "pi",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "paragraph": {
+      "type": "richtext"
+    }
+  }
+}

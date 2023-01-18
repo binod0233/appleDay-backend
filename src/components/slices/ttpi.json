@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_slices_ttpis",
+  "info": {
+    "displayName": "ttpi",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "title1": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "richtext"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

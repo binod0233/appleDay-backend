@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_section3s",
+  "info": {
+    "displayName": "section3",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "ip": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.pi"
+    }
+  }
+}

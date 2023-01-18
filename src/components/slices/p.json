@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_slices_ps",
+  "info": {
+    "displayName": "p",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "paragraph": {
+      "type": "richtext"
+    }
+  }
+}

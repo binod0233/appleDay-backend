@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_section_section4s",
+  "info": {
+    "displayName": "section4",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "tp": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.slices-type1"
+    }
+  }
+}

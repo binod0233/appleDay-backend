@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_slices_slices_type1s",
+  "info": {
+    "displayName": "T-P",
+    "icon": "record-vinyl",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "richtext"
+    }
+  }
+}
