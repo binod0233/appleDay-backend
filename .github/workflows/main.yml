@@ -1,0 +1,22 @@
+name: 🚀 Deploy to cpanel
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v2
+
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        with:
+          server: ftp.ezsolutionstore.com
+          username: xen@ezsolutionstore.com
+          password: h&YUp$^sC7h&z1REHx&q7sQJS34jym3#H#WYDJaragbjh^$a*Z1@8x*QWHej
