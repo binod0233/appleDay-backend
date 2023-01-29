@@ -1,7 +1,6 @@
 # 🚀 Getting started with Strapi
 
 ## CD status
-
 [![🚀 Deploy to cpanel](https://github.com/xenSlayer/appleDay-backend/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/xenSlayer/appleDay-backend/actions/workflows/main.yml)
 
 # cd status
