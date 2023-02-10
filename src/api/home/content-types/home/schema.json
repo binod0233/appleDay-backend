@@ -26,6 +26,11 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::category.category"
+    },
+    "slogan": {
+      "type": "component",
+      "repeatable": false,
+      "component": "slices.slices-type1"
     }
   }
 }
